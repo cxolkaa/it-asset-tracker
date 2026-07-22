@@ -1,6 +1,6 @@
 ﻿# IT Asset Tracker
 
-REST API for managing company IT assets — laptops, servers, monitors, software licenses, and warranty dates.
+REST API for managing company IT assets - laptops, servers, monitors, software licenses, and warranty dates.
 
 Built with **Python**, **FastAPI**, and **SQLite**. Designed as a lightweight alternative to heavy CMDB systems for small and medium IT teams.
 
